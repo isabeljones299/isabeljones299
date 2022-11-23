@@ -1,21 +1,28 @@
-![](https://en.bloggif.com/tmp/84aeacbca91bf04bd9c9c6a15294fd1e/text.gif?1667334414)
+# ISABEL JONES
+## Trainee Software Engineer and recent Chemistry Graduate
+### Bristol 🏙️
 
-<div align="left" width="50%">
 
-I am a recent Chemistry graduate who is undergoing a Software Engineering course. I am also working towards my Java Associate Certification.</br> 
+I began training as a Software Engineer when I decided to take a break from the lab following my Masters in Chemistry. My goal is to create a full stack application!
+I also hope to complete the Oracle Java Associate Certification in the next couple of months.</br> 
 
-My most recent projects as part of my training have been creating a Scrabble scorer in both Java and JavaScript, </br>feel free to check them out!
+My most recent projects as part of my training have been creating a Scrabble scorer in both Java and JavaScript, and a React news application, 
+</br>feel free to check them out!
 
- <p> An additional project I have in the pipline is creating a game of Uno in Java! &#9824; &#9830; &#9827; &#9829;</p>
+An additional project I have in the pipline is creating a game of Uno in Java! &#9824; &#9830; &#9827; &#9829;</p>
 
-  
-</div>
 
-<h1 align="right">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-  
-</h1>
+## Skills
+- Java
+- JavaScript
+- HTML
+- CSS
+- Node.js
+- React.js
+- ejs
+- MongoDB
+- Test Driven Development
+- Agile Methodologies
 
 
 
