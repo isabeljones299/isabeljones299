@@ -3,13 +3,13 @@
 ### Bristol 🏙️
 
 
-I began training as a Software Engineer when I decided to take a break from the lab following my Masters in Chemistry. My goal is to create a full stack application!
-I also hope to complete the Oracle Java Associate Certification in the next couple of months.</br> 
+I began training as a Software Engineer after completing an intergrated Masters in Chemistry. My goal for now is to create and deploy my own app!
+I am also working towards Oracle Java Associate Certification.</br> 
 
-My most recent projects as part of my training have been creating a Scrabble scorer in both Java and JavaScript, and a React news application, 
-</br>feel free to check them out!
+I have completed many projects as part of my training, including a scrabble scorer in both Java and JavaScript, a React news application which stays up to date with news from the Guardian, plus a Twitter mock called "chitter" which uses an Atlas cluster to store "peeps".
+</br>
 
-An additional project I have in the pipline is creating a game of Uno in Java! &#9824; &#9830; &#9827; &#9829;</p>
+An additional project I am working on outside of my SE course a game of scrabble which you can play online with against friends! :game_die: :video_game: :dart:
 
 
 ## Skills
