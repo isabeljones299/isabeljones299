@@ -14,15 +14,22 @@ An additional project I am working on outside of my SE course a game of scrabble
 
 ## Skills
 - Java
+- Object Oriented Programming
 - JavaScript
 - HTML
 - CSS
-- Node.js
-- React.js
-- ejs
+- TypeScript
+- Node
+- React
+- Express
+- Express Validator
+- EJS
 - MongoDB
 - Test Driven Development
 - Agile Methodologies
+- Jest
+- Chai
+- Mocha
 
 
 
