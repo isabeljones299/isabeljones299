@@ -1,9 +1,9 @@
 # ISABEL JONES
-## Trainee Software Engineer and recent Chemistry Graduate
-### Bristol 🏙️
+## Techical Consultant
+### Bristol 
 
 
-I began training as a Software Engineer after completing an intergrated Masters in Chemistry and I am currently working towards the Oracle Java SE Programmer Associate Certification. My goal for now is to create and deploy my own app. In the future, I would love to find out ways to reduce global warming using technology. 
+I began training as a Software Engineer after completing an intergrated Masters in Chemistry and I am currently working as a technical consultant in Bristol. My goal for now is to improve my knowledge of cloud computing and gain more experience in the data side of things. In the future, I would love to find out ways to reduce global warming using technology. 
 </br> 
 
 Check out my repos for projects completed as part of my training, including a scrabble scorer in both Java and JavaScript, a React news application which stays up to date with news from the Guardian, plus a Twitter mock called "chitter" which uses an Atlas cluster to store "peeps" and user accounts.
